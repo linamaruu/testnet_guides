@@ -9,7 +9,7 @@ Official documentation: [validator setup instructions](https://knowabl.notion.si
 ### Minimum Hardware Requirements 
  - CPU: x86_64 or arm64 processor with at least 4 physical cores
  - RAM: 8GB DDR4
- - Storage: 1TB
+ - Storage: 1TB 
 
 ## 🔧 Set up your node
 ### Manual installation
